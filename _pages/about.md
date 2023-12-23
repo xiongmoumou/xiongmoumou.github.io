@@ -55,8 +55,8 @@ My research interest includes data mining. Currently working on a research proje
 - *2023.11* I received second place in the Corporate Scholarship Program.
 
 # 📖 Educations
-- *2021.09 - now* I am currently pursuing a master's degree at East China Normal University.
-- *2017.09 - 2021.06* I obtained a bachelor's degree from the Honor College at Hangzhou Dianzi University.
+- *2021.09 - now*   I am currently pursuing a master's degree at East China Normal University.
+- *2017.09 - 2021.06*   I obtained a bachelor's degree from the Honor College at Hangzhou Dianzi University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
