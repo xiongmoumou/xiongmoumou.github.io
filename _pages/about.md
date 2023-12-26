@@ -20,9 +20,9 @@ redirect_from:
 I am currently enrolled in the School of Data Science and Engineering at East China Normal University, where I am advised by [Prof. Xiang Li](https://lixiang3776.github.io/) at GAMA LAB.
 My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs.
 Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs).
-<!-- 
+
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
- -->
+
 
 
 <!-- https://scholar.google.com.hk/citations?user=EH6ntM0AAAAJ&hl=zh-CN&oi=ao -->
