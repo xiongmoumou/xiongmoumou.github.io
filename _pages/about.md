@@ -20,10 +20,9 @@ redirect_from:
 I am currently enrolled in the School of Data Science and Engineering at East China Normal University, where I am advised by [Prof. Xiang Li](https://lixiang3776.github.io/) at GAMA LAB.
 My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs.
 Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs).
-
-I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=EH6ntM0AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> 
-
-(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=EH6ntM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- 
+I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+ -->
 
 
 <!-- https://scholar.google.com.hk/citations?user=EH6ntM0AAAAJ&hl=zh-CN&oi=ao -->
@@ -34,7 +33,7 @@ I have published more than 100 papers at the top international AI conferences wi
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Publications  <a href='https://scholar.google.com/citations?user=EH6ntM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
