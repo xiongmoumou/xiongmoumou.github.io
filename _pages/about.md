@@ -48,10 +48,15 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 
 [Heterogeneous graph contrastive learning with meta-path contexts and weighted negative samples](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), 
 
-**Jianxiang Yu**, Xiang Li, 
+**Jianxiang Yu**, Xiang Li
 
-***SDM 2023***
+***SIAM International Conference on Data Mining (SDM 2023)***
 
+[Context-Aware Session-Based Recommendation with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10412788), 
+
+Zhihui Zhang, **Jianxiang Yu**, Xiang Li
+
+***IEEE International Conference on Big Knowledge (ICBK 2023)***
 
 
 # 🎖 Honors and Awards
