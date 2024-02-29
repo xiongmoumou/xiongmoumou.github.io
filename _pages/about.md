@@ -56,7 +56,7 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 
 Zhihui Zhang, **Jianxiang Yu**, Xiang Li
 
-***IEEE International Conference on Big Knowledge (ICBK 2023)***
+***IEEE International Conference on Knowledge Graph (ICKG 2023)***
 
 
 # 🎖 Honors and Awards
@@ -64,7 +64,7 @@ Zhihui Zhang, **Jianxiang Yu**, Xiang Li
 
 # 📖 Educations
 - *2021.09 - now*   I am currently pursuing a master's degree at East China Normal University.
-- *2017.09 - 2021.06*   I obtained a bachelor's degree from the Honor College at Hangzhou Dianzi University.
+- *2017.09 - 2021.06*   Bachelor's degree from the Honor College at Hangzhou Dianzi University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
