@@ -46,7 +46,7 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 </div>
  -->
 
-[Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](), 
+[Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), 
 
 **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou
 
