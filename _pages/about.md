@@ -67,10 +67,12 @@ Zhihui Zhang, **Jianxiang Yu**, Xiang Li
 
 
 # 🎖 Honors and Awards
-- *2023.11* I received second place in the Corporate Scholarship Program.
+- *2024.05* I was recognized as an Outstanding Graduate at East China Normal University.
+- *2023.11* I was awarded the Second Prize Enterprise Scholarship by the School of Data Science and Engineering at East China Normal University.
 
 # 📖 Educations
-- *2021.09 - now*   I am currently pursuing a master's degree at East China Normal University.
+- *2024.09 - now*    I will pursue a Ph.D. at East China Normal University.
+- *2021.09 - 2024.06*   Master's degree from DASE at East China Normal University.
 - *2017.09 - 2021.06*   Bachelor's degree from the Honor College at Hangzhou Dianzi University.
 
 <!-- # 💬 Invited Talks
