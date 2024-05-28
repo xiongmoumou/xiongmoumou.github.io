@@ -46,6 +46,13 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 </div>
  -->
 
+[Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](),
+
+ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu
+
+***European Conference on Machine Learning and Data Mining (ECML PKDD 2024)***
+
+
 [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), 
 
 **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou
