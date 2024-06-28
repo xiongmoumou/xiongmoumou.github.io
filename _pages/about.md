@@ -46,7 +46,7 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 </div>
  -->
 
-[Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](),
+[Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362v2),
 
 ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu
 
@@ -74,17 +74,17 @@ Zhihui Zhang, **Jianxiang Yu**, Xiang Li
 
 
 # 🎖 Honors and Awards
-- *2024.05* I was recognized as an Outstanding Graduate at East China Normal University.
-- *2023.11* I was awarded the Second Prize Enterprise Scholarship by the School of Data Science and Engineering at East China Normal University.
+- *2024.05* Outstanding Graduate, East China Normal University
+- *2023.11* Second Prize Enterprise Scholarship, School of Data Science and Engineering, East China Normal University
 
 # 📖 Educations
-- *2024.09 - now*    I will pursue a Ph.D. at East China Normal University.
-- *2021.09 - 2024.06*   Master's degree from DASE at East China Normal University.
-- *2017.09 - 2021.06*   Bachelor's degree from the Honor College at Hangzhou Dianzi University.
+- *2024.09 - now*    Ph.D. candidate, East China Normal University
+- *2021.09 - 2024.06*   Master, DASE, East China Normal University
+- *2017.09 - 2021.06*   Undergraduate, Honor College, Hangzhou Dianzi University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China.
+- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China
