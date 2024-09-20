@@ -46,6 +46,12 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 </div>
  -->
 
+[Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857),
+
+**Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li
+
+***Empirical Methods in Natural Language Processing (EMNLP 2024 Findings)***
+
 [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362v2),
 
 ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu
