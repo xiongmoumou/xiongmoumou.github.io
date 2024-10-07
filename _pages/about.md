@@ -59,14 +59,14 @@ ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu
 ***European Conference on Machine Learning and Data Mining (ECML PKDD 2024)***
 
 
-[Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz//'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a>
+[Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a>
 
 **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou
 
 ***IEEE Transactions on Knowledge and Data Engineering (TKDE 2024)***
 
 
-[Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5),  <a href='https://www.bilibili.com/video/BV1Eu411a7RR/'><img src="https://img.shields.io/badge/Bilibili-MEOW-blue?logo=bilibili&logoColor=white"></a>
+[Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), &nbsp; <a href='https://www.bilibili.com/video/BV1Eu411a7RR/'><img src="https://img.shields.io/badge/Bilibili-MEOW-blue?logo=bilibili&logoColor=white"></a>
 
 **Jianxiang Yu**, Xiang Li
 
