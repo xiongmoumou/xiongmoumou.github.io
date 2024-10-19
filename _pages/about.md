@@ -46,7 +46,7 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 </div>
  -->
 
-[Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857),
+[Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a>
 
 **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li
 
@@ -77,6 +77,10 @@ ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu
 Zhihui Zhang, **Jianxiang Yu**, Xiang Li
 
 ***IEEE International Conference on Knowledge Graph (ICKG 2023)***
+
+# 🌟 Experience
+
+- *2024.10* Presented a talk at EMNLP 2024 pre-presentation organized by AI TIME.
 
 
 # 🎖 Honors and Awards
