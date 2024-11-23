@@ -49,6 +49,18 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 </div>
  -->
 
+[Variational Graph Autoencoder for Heterogeneous Information Networks with Missing and Inaccurate Attributes](https://arxiv.org/abs/2311.07929),
+
+Yige Zhao, **Jianxiang Yu**, Yao Cheng, Chengcheng Yu, Yiding Liu, Xiang Li*, Shuaiqiang Wang
+
+***Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)***
+
+[RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](https://arxiv.org/abs/2408.03195),
+
+Jiapeng Zhu, Zichen Ding, **Jianxiang Yu**, Jiaqi Tan, Xiang Li
+
+***Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)***
+
 [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a>
 
 **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li
@@ -83,7 +95,8 @@ Zhihui Zhang, **Jianxiang Yu**, Xiang Li
 
 # 🌟 Experience
 
-- *2024.10* Presented a talk at EMNLP 2024 pre-presentation organized by AI TIME.
+- *2024.11* Attend EMNLP 2024 in Miami, USA.
+- *2024.10* Give a talk at EMNLP 2024 pre-presentation event organized by AI TIME.
 
 
 # 🎖 Honors and Awards
