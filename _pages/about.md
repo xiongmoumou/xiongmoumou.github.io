@@ -54,7 +54,7 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 Yige Zhao, **Jianxiang Yu**, Yao Cheng, Chengcheng Yu, Yiding Liu, Xiang Li, Shuaiqiang Wang
 
 <!-- ***Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*** -->
-_Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)_
+_Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2025)**_
 
 
 [RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](https://arxiv.org/abs/2408.03195),
@@ -62,14 +62,14 @@ _Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data M
 Jiapeng Zhu, Zichen Ding, **Jianxiang Yu**, Jiaqi Tan, Xiang Li
 
 <!-- ***Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*** -->
-_Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)_
-
+_Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2025)**_
+  
 [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a>
 
 **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li
 
 <!-- ***Empirical Methods in Natural Language Processing (EMNLP 2024 Findings)*** -->
-_Empirical Methods in Natural Language Processing (EMNLP 2024 Findings)_
+_Empirical Methods in Natural Language Processing **(EMNLP 2024 Findings)**_
 
 
 [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362v2),
@@ -77,7 +77,7 @@ _Empirical Methods in Natural Language Processing (EMNLP 2024 Findings)_
 ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu
 
 <!-- ***European Conference on Machine Learning and Data Mining (ECML PKDD 2024)*** -->
-_European Conference on Machine Learning and Data Mining (ECML PKDD 2024)_
+_European Conference on Machine Learning and Data Mining **(ECML PKDD 2024)**_
 
 
 [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a>
@@ -85,7 +85,7 @@ _European Conference on Machine Learning and Data Mining (ECML PKDD 2024)_
 **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou
 
 <!-- ***IEEE Transactions on Knowledge and Data Engineering (TKDE 2024)*** -->
-_IEEE Transactions on Knowledge and Data Engineering (TKDE 2024)_
+_IEEE Transactions on Knowledge and Data Engineering **(TKDE 2024)**_
 
 
 [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), &nbsp; <a href='https://www.bilibili.com/video/BV1Eu411a7RR/'><img src="https://img.shields.io/badge/Bilibili-MEOW-blue?logo=bilibili&logoColor=white"></a>
@@ -93,7 +93,7 @@ _IEEE Transactions on Knowledge and Data Engineering (TKDE 2024)_
 **Jianxiang Yu**, Xiang Li
 
 <!-- ***SIAM International Conference on Data Mining (SDM 2023)*** -->
-_SIAM International Conference on Data Mining (SDM 2023)_
+_SIAM International Conference on Data Mining **(SDM 2023)**_
 
 
 [Context-Aware Session-Based Recommendation with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10412788), 
@@ -101,7 +101,7 @@ _SIAM International Conference on Data Mining (SDM 2023)_
 Zhihui Zhang, **Jianxiang Yu**, Xiang Li
 
 <!-- ***IEEE International Conference on Knowledge Graph (ICKG 2023)*** -->
-_IEEE International Conference on Knowledge Graph (ICKG 2023)_
+_IEEE International Conference on Knowledge Graph **(ICKG 2023)**_
 
 
 # 🌟 Experience
