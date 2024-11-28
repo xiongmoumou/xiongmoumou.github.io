@@ -14,5 +14,6 @@
 
 - `SDM 2023` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), &nbsp; <a href='https://www.bilibili.com/video/BV1Eu411a7RR/'><img src="https://img.shields.io/badge/Bilibili-MEOW-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu**, Xiang Li.
 
-
 - `ICKG 2023` [Context-Aware Session-Based Recommendation with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10412788), <br> Zhihui Zhang, **Jianxiang Yu**, Xiang Li.
+
+More preprints under review will be released soon, and some papers can be found on Google Scholar. 📚✨🔍
