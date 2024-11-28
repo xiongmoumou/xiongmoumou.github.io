@@ -31,7 +31,7 @@ Currently I am exploring the integration of Large Language Models (LLMs) with Gr
 
 <span class='anchor' id='publications'></span>
 
-{% include pub.md %}
+{% include_relative includes/pub.md %}
 
 
 # 🌟 Experience
