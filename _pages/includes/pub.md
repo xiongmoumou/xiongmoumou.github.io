@@ -13,7 +13,7 @@ _Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data M
 
 Jiapeng Zhu, Zichen Ding, **Jianxiang Yu**, Jiaqi Tan, Xiang Li
 
-_Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2025)**_
+_Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ KDD 2025
   
 - [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a>
 
