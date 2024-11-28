@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently enrolled in the School of Data Science and Engineering at East China Normal University, where I am advised by [Prof. Xiang Li](https://lixiang3776.github.io/) at PLANING lab.
+I am currently in my first-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING lab.
 My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs.
 Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs).
 
