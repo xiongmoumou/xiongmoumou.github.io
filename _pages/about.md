@@ -21,7 +21,7 @@ I am currently a first-year Ph.D. Student at the School of Data Science and Engi
 
 My research interests include:
 - **Data mining:** graph neural networks, heterogeneous graph mining;
-- **Large Language Models:** scientific research, knowledge editing;
+- **Large Language Models:** applications in scientific research, knowledge editing;
 - **Combination of GNNs and LLMs:** graph foundation models, graph prompt learning.
 <!-- My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs. -->
 <!-- Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs). -->
