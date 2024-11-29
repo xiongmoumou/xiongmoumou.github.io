@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a first-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING lab.
+
 My research interests include:
 - **Data mining:** graph neural networks, heterogeneous graph mining;
 - **Large Language Models:** scientific research, knowledge editing;
