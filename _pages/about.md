@@ -28,7 +28,7 @@ My research interests include:
 
 <!-- https://scholar.google.com.hk/citations?user=EH6ntM0AAAAJ&hl=zh-CN&oi=ao -->
 
-🎉🎉🎉 Feel free to reach out to me for any academic inquiries!
+🎉🎉🎉 Feel free to reach out to me for academic discussions and collaborations!
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
