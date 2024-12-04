@@ -27,7 +27,7 @@ My research interests include:
 
 <!-- https://scholar.google.com.hk/citations?user=EH6ntM0AAAAJ&hl=zh-CN&oi=ao -->
 
-🎉🎉🎉 Feel free to reach out to me for academic discussions and collaborations!
+★★★ Feel free to reach out to me for academic discussions and collaborations!
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -38,8 +38,8 @@ My research interests include:
 # 🔥 News
 
 - *2024.12* 🎉 🎉 New homepage!
-- *2024.11* 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025!
-- *2024.11* ⛱️⛱️ Attend EMNLP 2024 in Miami, USA!
+- *2024.11* 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025! 🇨🇦
+- *2024.11* ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸
 
 {% include_relative includes/pub.md %}
 
