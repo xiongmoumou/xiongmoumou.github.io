@@ -37,9 +37,9 @@ My research interests include:
 
 # 🔥 News
 
-- 🎉 New homepage!
-- *2024.11* Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025!
-- *2024.11* Attend EMNLP 2024 in Miami, USA!
+- *2024.12* 🎉 🎉 New homepage!
+- *2024.11* 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025!
+- *2024.11* ⛱️⛱️ Attend EMNLP 2024 in Miami, USA!
 
 {% include_relative includes/pub.md %}
 
@@ -52,12 +52,12 @@ My research interests include:
 - *2021.01* First Place, IBM Modern Architecture Technology Elite Contest China Division
 
 # 📖 Educations
-- *2022.09 - now*   Master's, DASE, East China Normal University (via recommendation)
-- *2018.09 - 2022.06*   Undergraduate, School of Software Engineering, Dalian University of Technology
+- *2022.09 - now*, Master's, DASE, East China Normal University (via recommendation) <img src='./images/logos/dase_log1.png' style='width: 1.45em;'>
+- *2018.09 - 2022.06*, Undergraduate, School of Software Engineering, Dalian University of Technology <img src='./images/logos/dlut.png' style='width: 1.9em;'>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.11 - now* NLP Research Intern, NLP Group, Shanghai AI Laboratory <img src='./images/logs/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
+- *2023.11 - now* NLP Research Intern, NLP Group, Shanghai AI Laboratory <img src='./images/logos/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
