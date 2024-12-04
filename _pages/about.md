@@ -52,8 +52,8 @@ My research interests include:
 - *2021.01* First Place, IBM Modern Architecture Technology Elite Contest China Division
 
 # 📖 Educations
-- *2022.09 - now*, Master's, DASE, East China Normal University (via recommendation) <img src='./images/logos/dase_log1.png' style='width: 1.45em;'>
-- *2018.09 - 2022.06*, Undergraduate, School of Software Engineering, Dalian University of Technology <img src='./images/logos/dlut.png' style='width: 1.9em;'>
+- *2022.09 - now*, Master's, DASE, East China Normal University (via recommendation) <img src='./images/logos/dase_log1.png' style='width: 4em;'>
+- *2018.09 - 2022.06*, Undergraduate, School of Software Engineering, Dalian University of Technology <img src='./images/logos/dlut.png' style='width: 5em;'>s
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
