@@ -24,11 +24,6 @@ My research interests include:
 - **Scientific Review:** automated peer reviewing, review completion;
 - **LLMs:** inference tuning, domain foundation model, knowledge editing, PEFT.
 
-<!-- My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs. -->
-<!-- Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs). -->
-
-<!-- https://scholar.google.com.hk/citations?user=EH6ntM0AAAAJ&hl=zh-CN&oi=ao -->
-
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 
 <!-- # 🔥 News -->
