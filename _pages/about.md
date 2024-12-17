@@ -20,8 +20,10 @@ redirect_from:
 I am currently a third-year Master's Student at the School of Data Science and Engineering, East China Normal University, under the supervision of Prof. Ming Gao and [Prof. Xiang Li](https://lixiang3776.github.io/) in the X101 lab. I am currently a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/).
 
 My research interests include:
-- **Large Language Models:** applications in scientific research, knowledge editing;
-- **AI Agent:** OS Agent, GUI Agent, GUI foundation model.
+- **AI Agents:** Multi-Agent, OS Agent, GUI Agent, GUI o1;
+- **Scientific Review:** Automated Peer Reviewing, review completion;
+- **Large Language Models:** domain foundation model, knowledge editing, PEFT.
+
 <!-- My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs. -->
 <!-- Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs). -->
 
