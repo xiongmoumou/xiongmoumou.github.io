@@ -22,7 +22,7 @@ I am currently a third-year Master's Student at the School of Data Science and E
 My research interests include:
 - **AI Agents:** Multi-Agent, OS Agent, GUI Agent, GUI o1;
 - **Scientific Review:** automated peer reviewing, review completion;
-- **Large Language Models:** domain foundation model, knowledge editing, PEFT.
+- **LLMs:** inference tuning, domain foundation model, knowledge editing, PEFT.
 
 <!-- My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs. -->
 <!-- Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs). -->
