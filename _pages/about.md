@@ -34,27 +34,39 @@ My research interests include:
 
 # 🔥 News
 
-- *2024.12* 🎉 🎉 New homepage!
-- *2024.11* 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025! 🇨🇦
-- *2024.11* ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸
+- *2024.12* &emsp; 🎉 🎉 New homepage!
+- *2024.11* &emsp; 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025! 🇨🇦
+- *2024.11* &emsp; ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸
 
 {% include_relative includes/pub.md %}
-
-
-# 🎖 Honors and Awards
-- *2022-2025* Graduate Academic Scholarship, East China Normal University
-- *2022.06* Outstanding Graduate, Dalian University of Technology
-- *2018-2022* Academic Excellence Scholarship, Dalian University of Technology
-- *2021.01* Fifth Place, Microsoft Imagine Cup China Division
-- *2021.01* First Place, IBM Modern Architecture Technology Elite Contest China Division
 
 # 📖 Educations
 - *2022.09 - now*, Master's, DASE, East China Normal University (via recommendation) <img src='./images/logos/dase_log1.png' style='width: 5em;'>
 - *2018.09 - 2022.06*, Undergraduate, School of Software Engineering, Dalian University of Technology <img src='./images/logos/dlut.png' style='width: 5.5em;'>
 
+# 💻 Internships
+- *2023.11 - now* NLP Research Intern, NLP Group, Shanghai AI Laboratory <img src='./images/logos/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
+
+# 🏆 Honors and Awards
+**Honors**
+- *2022.06* &emsp; Outstanding Graduate, Dalian University of Technology
+- *2018-21* &emsp; Outstanding Student, Dalian University of Technology
+
+**Competition Awards**
+- *2021.01* &emsp; First Place, IBM Modern Architecture Technology Elite Contest China Division
+- *2021.01* &emsp; Fifth Place, Microsoft Imagine Cup China Division
+- *2021.06* &emsp; First Prize in the National MathorCup College Mathematical Modeling Challenge
+- *2021.07* &emsp; Second Prize in the National China Collegiate Computer Design Contest
+- *2021.03* &emsp; Bronze Medal in the 2nd National College Algorithm Design and Programming Challenge
+
+# 🎖 Scholarships
+- *2022-25* &emsp; Graduate Academic Scholarship, East China Normal University
+- *2018-22* &emsp; Academic Excellence Scholarship, Dalian University of Technology
+- *2019-21* &emsp; Science and Technology Innovation Scholarship, Dalian University of Technology
+- *2021.11* &emsp; Panasonic Scholarship, Dalian University of Technology
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2023.11 - now* NLP Research Intern, NLP Group, Shanghai AI Laboratory <img src='./images/logos/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
+
