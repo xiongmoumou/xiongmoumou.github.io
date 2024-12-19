@@ -58,13 +58,12 @@ My research interests include:
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<span class='anchor' id='publications'></span>
-
-
 
 <!-- - *2024.12:* 🎉 🎉 New homepage!
 - *2024.11:* 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025! 🇨🇦
 - *2024.11:* ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸 -->
+
+<span class='anchor' id='publications'></span>
 
 {% include_relative includes/pub.md %}
 
