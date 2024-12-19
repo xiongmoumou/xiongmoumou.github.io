@@ -48,7 +48,7 @@ My research interests include:
 </style>  
 <div class="scrollable-area">  
     <ul>
-        <li><em>2024.12</em>: 🎉 🎉 New homepage!</li>
+        <li><em>2024.12</em>: 🎉🎉 New homepage!</li>
         <li><em>2024.11</em>: 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025! 🇨🇦</li>
         <li><em>2024.11</em>: ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸</li>
     </ul>  
