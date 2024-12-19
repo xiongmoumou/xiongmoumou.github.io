@@ -80,11 +80,11 @@ My research interests include:
 - *2018-21* &emsp; Outstanding Student, Dalian University of Technology
 
 **Competition Awards**
-- *2021.01* &emsp; First Place, IBM Modern Architecture Technology Elite Contest China Division
-- *2021.01* &emsp; Fifth Place, Microsoft Imagine Cup China Division
-- *2021.06* &emsp; First Prize in the National MathorCup College Mathematical Modeling Challenge
-- *2021.07* &emsp; Second Prize in the National China Collegiate Computer Design Contest
-- *2021.03* &emsp; Bronze Medal in the 2nd National College Algorithm Design and Programming Challenge
+- *2021.01* &emsp; **First Place**, IBM Modern Architecture Technology Elite Contest China Division
+- *2021.01* &emsp; **Fifth Place**, Microsoft Imagine Cup China Division
+- *2021.06* &emsp; **First Prize** in the National MathorCup College Mathematical Modeling Challenge
+- *2021.07* &emsp; **Second Prize** in the National China Collegiate Computer Design Contest
+- *2021.03* &emsp; **Bronze Medal** in the 2nd National College Algorithm Design and Programming Challenge
 
 # 🎖 Scholarships
 - *2022-25* &emsp; Graduate Academic Scholarship, East China Normal University
