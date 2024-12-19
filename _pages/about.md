@@ -26,17 +26,45 @@ My research interests include:
 
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 
+# 🔥 News
+<style>  
+    .scrollable-area {  
+        max-height: 180px;  
+        overflow-y: auto;  
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);  
+        padding: 10px;  
+    }
+    .pdf {
+        text-decoration: none;
+        color: #122c8b;
+    }
+    .code {
+        text-decoration: none;
+        color: #122c8b;
+    }
+    .title{
+        color: #374798;
+    }
+</style>  
+<div class="scrollable-area">  
+    <ul>
+        <li><em>2024.12</em>: 🎉 🎉 New homepage!</li>
+        <li><em>2024.11</em>: 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025! 🇨🇦</li>
+        <li><em>2024.11</em>: ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸</li>
+    </ul>  
+</div>  
+
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <span class='anchor' id='publications'></span>
 
-# 🔥 News
 
-- *2024.12:* 🎉 🎉 New homepage!
+
+<!-- - *2024.12:* 🎉 🎉 New homepage!
 - *2024.11:* 🥂🥂 Our paper [RELIEF](https://arxiv.org/pdf/2408.03195) is accepted to KDD 2025! 🇨🇦
-- *2024.11:* ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸
+- *2024.11:* ⛱️⛱️ Attend EMNLP 2024 in Miami, USA! 🇺🇸 -->
 
 {% include_relative includes/pub.md %}
 
