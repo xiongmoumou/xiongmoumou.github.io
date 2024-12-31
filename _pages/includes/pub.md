@@ -2,7 +2,7 @@
 # 📝 Selected Publications  <a href='https://scholar.google.com/citations?user=N4NNsRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - `Preprint` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723), &nbsp;
-[![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)<br> Qiushi Sun\*, Kanzhi Cheng\*, **Zichen Ding\***, Chuanyang Jin\*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu.
+[![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis)<br> Qiushi Sun\*, Kanzhi Cheng\*, **Zichen Ding\***, Chuanyang Jin\*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu.
 
 - `Preprint` [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218), &nbsp;
 [![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)<br> Zhiyong Wu\*, Zhenyu Wu\*, Fangzhi Xu\*, Yian Wang\*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, **Zichen Ding**, Liheng Chen, Paul Pu Liang, Yu Qiao.
