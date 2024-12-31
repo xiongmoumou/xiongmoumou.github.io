@@ -22,7 +22,7 @@ Qiushi Sun\*, Kanzhi Cheng\*, **Zichen Ding\***, Chuanyang Jin\*, Yian Wang, Fan
 Jianxiang Yu\*, **Zichen Ding\***, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li.
 
 - Check demos at [**Our Website**](https://ecnu-sea.github.io/). 
-- An innovative framework for automating paper review. [![](https://img.shields.io/github/stars/ecnu-sea/SEA?style=social&label=Code+Stars)](https://github.com/ecnu-sea/SEA) <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a>
+- An innovative framework for automating peer reviewing. [![](https://img.shields.io/github/stars/ecnu-sea/SEA?style=social&label=Code+Stars)](https://github.com/ecnu-sea/SEA) <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a>
 
 </div>
 </div>
