@@ -22,7 +22,7 @@ Qiushi Sun\*, Kanzhi Cheng\*, **Zichen Ding\***, Chuanyang Jin\*, Yian Wang, Fan
 Jianxiang Yu\*, **Zichen Ding\***, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. 
 
 - Check demos at [**Our Website**](https://ecnu-sea.github.io/). 
-- An innovative framework for automating peer reviewing. 
+- An innovative framework for automating peer review. 
 
 </div>
 </div>
