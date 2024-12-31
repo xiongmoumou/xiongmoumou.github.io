@@ -18,7 +18,7 @@ Qiushi Sun\*, Kanzhi Cheng\*, **Zichen Ding\***, Chuanyang Jin\*, Yian Wang, Fan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/publications/SEA.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857) <span style="color:yellow">[CCF-B]</span> \\
+[Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857) <span style="color:#FFCC66">[CCF-B]</span> \\
 Jianxiang Yu\*, **Zichen Ding\***, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li.
 
 - Check demos at [**Our Website**](https://ecnu-sea.github.io/). 
