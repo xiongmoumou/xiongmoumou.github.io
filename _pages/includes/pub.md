@@ -9,8 +9,9 @@ Qiushi Sun\*, Kanzhi Cheng\*, **Zichen Ding\***, Chuanyang Jin\*, Yian Wang, Fan
 
 (\* means equal contributions)
 
-- Check demos at [**Our Website**](https://qiushisun.github.io/OS-Genesis-Home/). 
-- A manual-free data pipeline for synthesizing GUI agent trajectories.
+- Check demos at [**Our Website**](https://qiushisun.github.io/OS-Genesis-Home/). 🌐
+- Shift from task-driven to interaction-driven GUI data synthesis. 🤖
+- A manual-free data pipeline for synthesizing GUI agent trajectories. 🧬
 
 </div>
 </div>
@@ -21,8 +22,8 @@ Qiushi Sun\*, Kanzhi Cheng\*, **Zichen Ding\***, Chuanyang Jin\*, Yian Wang, Fan
 [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857) <span style="color:orange">[CCF-B]</span> [![](https://img.shields.io/github/stars/ecnu-sea/SEA?style=social&label=Code+Stars)](https://github.com/ecnu-sea/SEA) <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> \\
 Jianxiang Yu\*, **Zichen Ding\***, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. 
 
-- Check demos at [**Our Website**](https://ecnu-sea.github.io/). 
-- An innovative framework for automating peer review. 
+- Check demos at [**Our Website**](https://ecnu-sea.github.io/). 🌐
+- An innovative framework for automating peer review. 🌊
 
 </div>
 </div>
