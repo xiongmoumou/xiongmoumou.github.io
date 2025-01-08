@@ -97,7 +97,11 @@ My research interests include:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<div style="width: 200px; height: 200px; overflow: hidden;">
+<!--<div style="width: 200px; height: 200px; overflow: hidden;">
+    <script type="text/javascript" id="clstr_globe" 
+        src="//clustrmaps.com/globe.js?d=C73LXGj9hHgRHh1tddEIc_z3OH7DwCLi_0X65fA9TeQ"></script>
+</div> -->
+<div style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
     <script type="text/javascript" id="clstr_globe" 
         src="//clustrmaps.com/globe.js?d=C73LXGj9hHgRHh1tddEIc_z3OH7DwCLi_0X65fA9TeQ"></script>
 </div>
