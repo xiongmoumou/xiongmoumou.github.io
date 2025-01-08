@@ -101,7 +101,7 @@ My research interests include:
     <script type="text/javascript" id="clstr_globe" 
         src="//clustrmaps.com/globe.js?d=C73LXGj9hHgRHh1tddEIc_z3OH7DwCLi_0X65fA9TeQ"></script>
 </div> -->
-<div style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+<div style="width: 200px; height: 200px; overflow: hidden; display: block; margin: 20px auto;">
     <script type="text/javascript" id="clstr_globe" 
         src="//clustrmaps.com/globe.js?d=C73LXGj9hHgRHh1tddEIc_z3OH7DwCLi_0X65fA9TeQ"></script>
 </div>
