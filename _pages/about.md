@@ -74,7 +74,8 @@ My research interests include:
 - *2018.09 - 2022.06*, Undergraduate, School of Software Engineering, Dalian University of Technology <img src='./images/logos/dlut.png' style='width: 5.5em;'>
 
 # 💻 Internships
-- *2023.11 - now*, NLP Research Intern, NLP Group, Shanghai AI Laboratory <img src='./images/logos/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
+- *2025.02 - now*, Research Intern, InternVL Group, Shanghai AI Laboratory <img src='./images/logos/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
+- *2023.11 - 2025.01*, Research Intern, NLP Group, Shanghai AI Laboratory <img src='./images/logos/shailab-logo.svg' style='width: 1.90em;'>, Shanghai, China.
 
 # 🏆 Honors and Awards
 **Honors**
